@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "umar",
+      "email": "umar@gmail.com",
+      "password": "umar123",
+      "id": 1
+    },
+    {
+      "email": "dasd",
+      "name": "sad",
+      "password": "sadas",
+      "id": 2
+    },
+    {
+      "email": "umar1@gmail.com",
+      "name": "umar abdullah",
+      "password": "umar123",
+      "id": 3
+    },
+    {
+      "email": "123",
+      "name": "123",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "email": "123",
+      "name": "231",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "email": "123",
+      "name": "231",
+      "password": "123",
+      "id": 6
+    }
+  ]
+}
